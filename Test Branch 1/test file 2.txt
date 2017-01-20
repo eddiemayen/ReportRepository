@@ -3,3 +3,5 @@
 
 
 test file 2 text
+
+ADD SOMETHING TO TEST FILE 2
